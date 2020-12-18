@@ -1,0 +1,9 @@
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.Entities\bin\Debug\netcoreapp3.1\Session08.Audit.Entities.deps.json
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.Entities\bin\Debug\netcoreapp3.1\Session08.Audit.Entities.dll
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.Entities\bin\Debug\netcoreapp3.1\Session08.Audit.Entities.pdb
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.Entities\obj\Debug\netcoreapp3.1\Session08.Audit.Entities.csprojAssemblyReference.cache
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.Entities\obj\Debug\netcoreapp3.1\Session08.Audit.Entities.csproj.CoreCompileInputs.cache
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.Entities\obj\Debug\netcoreapp3.1\Session08.Audit.Entities.AssemblyInfoInputs.cache
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.Entities\obj\Debug\netcoreapp3.1\Session08.Audit.Entities.AssemblyInfo.cs
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.Entities\obj\Debug\netcoreapp3.1\Session08.Audit.Entities.dll
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.Entities\obj\Debug\netcoreapp3.1\Session08.Audit.Entities.pdb

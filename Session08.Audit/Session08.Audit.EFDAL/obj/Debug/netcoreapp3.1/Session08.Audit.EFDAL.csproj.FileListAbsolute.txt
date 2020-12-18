@@ -1,0 +1,15 @@
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\bin\Debug\netcoreapp3.1\Session08.Audit.EFDAL.deps.json
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\bin\Debug\netcoreapp3.1\Session08.Audit.EFDAL.dll
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\obj\Debug\netcoreapp3.1\Session08.Audit.EFDAL.csprojAssemblyReference.cache
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\obj\Debug\netcoreapp3.1\Session08.Audit.EFDAL.AssemblyInfoInputs.cache
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\obj\Debug\netcoreapp3.1\Session08.Audit.EFDAL.AssemblyInfo.cs
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\bin\Debug\netcoreapp3.1\Session08.Audit.Entities.dll
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\bin\Debug\netcoreapp3.1\Session08.Audit.EFDAL.runtimeconfig.json
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\bin\Debug\netcoreapp3.1\Session08.Audit.EFDAL.runtimeconfig.dev.json
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\bin\Debug\netcoreapp3.1\Session08.Audit.EFDAL.pdb
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\bin\Debug\netcoreapp3.1\Session08.Audit.Entities.pdb
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\obj\Debug\netcoreapp3.1\Session08.Audit.EFDAL.csproj.CoreCompileInputs.cache
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\obj\Debug\netcoreapp3.1\Session08.Audit.EFDAL.csproj.CopyComplete
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\obj\Debug\netcoreapp3.1\Session08.Audit.EFDAL.dll
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\obj\Debug\netcoreapp3.1\Session08.Audit.EFDAL.pdb
+F:\Practice\EFCore\Session08.Audit\Session08.Audit.EFDAL\obj\Debug\netcoreapp3.1\Session08.Audit.EFDAL.genruntimeconfig.cache
